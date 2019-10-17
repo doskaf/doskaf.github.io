@@ -1,11 +1,11 @@
 # Site settings
 author: Dominique Skaf
-title: 
+title: My Flatiron Projects
 header-img: img/home-bg.png
 email: doskaf@yahoo.com
 copyright_name: Dominique Skaf
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Processes, reflections, and more!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  doskaf
