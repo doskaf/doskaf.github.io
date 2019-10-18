@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "**How I Started Studying Software Engineering**"
-date:       2019-10-17 21:59:46 +0000
+title:      "How I Started Studying Software Engineering"
+date:       2019-10-17 17:59:47 -0400
 permalink:  how_i_started_studying_software_engineering
 ---
 
