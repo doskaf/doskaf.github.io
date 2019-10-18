@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Pokedex Gem"
-date:       2019-10-18 04:54:59 +0000
+date:       2019-10-18 00:55:00 -0400
 permalink:  my_pokedex_gem
 ---
 
